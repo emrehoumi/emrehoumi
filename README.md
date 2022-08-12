@@ -1,10 +1,8 @@
-### Hi, I’m El Mehdi REHOUMI
+### Hi, I’m El Mehdi REH
 
 Full stack developer @norsys
 
 <!--
-**emrehoumi/emrehoumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
