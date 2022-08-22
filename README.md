@@ -1,6 +1,6 @@
 ### Hi, I’m El Mehdi REH
 
-Full stack developer @norsys
+Full Stack Software Engineer @norsys
 
 <!--
 Here are some ideas to get you started:
