@@ -1,6 +1,6 @@
 ### Hi, I’m El Mehdi REHOUMI
 
-Full Stack Software Engineer @norsys
+Full Stack Software Engineer
 
 <!--
 Here are some ideas to get you started:
