@@ -1,6 +1,6 @@
-### Hi, I’m El Mehdi REHOUMI
+### Hi, I'm El Mehdi REHOUMI
 
-Full Stack Software Engineer
+Full Stack Developer Java | Angular | React | Kafka
 
 <!--
 Here are some ideas to get you started:
